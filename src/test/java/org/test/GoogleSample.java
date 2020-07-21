@@ -16,4 +16,8 @@ public class GoogleSample {
 		System.out.println("Google translator LOC added by Dimpy..");
 //>>>>>>> 21a7d0c9e039c9c8afa8c852e92d7673ac28ee67
 	}
+	
+	public void googleSearch() {
+		System.out.println("Changes by Preetha..");
+	}
 }
