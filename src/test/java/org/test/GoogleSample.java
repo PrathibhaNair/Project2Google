@@ -6,4 +6,8 @@ public class GoogleSample {
 		
 		System.out.println("Test lines of code..");
 	}
+	
+	public void googleSearch() {
+		System.out.println("Changes by Preetha..");
+	}
 }
