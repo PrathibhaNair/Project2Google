@@ -11,5 +11,9 @@ public class GoogleSample {
 	public void googleTranslator() {
 		//LOC by Dimpy
 		System.out.println("Google translator LOC added by Dimpy..");
+		
+		System.out.println("New loc for google translator by Dimpy..21st July 2020");
 	}
+	
+	
 }
