@@ -7,4 +7,9 @@ public class GoogleSample {
 			
 		System.out.println("Lines of code added by Anu...");
 	}
+	
+	public void googleTranslator() {
+		//LOC by Dimpy
+		System.out.println("Google translator LOC added by Dimpy..");
+	}
 }
